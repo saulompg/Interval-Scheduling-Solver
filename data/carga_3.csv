@@ -1,0 +1,51 @@
+ID;Nome;Inicio;Fim;Prioridade;Participantes
+1;Reuniao de Conselho de Administracao;8.0;10.0;1;15
+2;Treinamento de Politicas da Empresa;8.0;9.5;4;30
+3;Palestra de Abertura Anual;8.0;10.0;2;100
+4;Reuniao de Controle de Qualidade;8.5;9.5;3;6
+5;Reuniao com Clientes Chave;8.5;10.5;1;8
+6;Treinamento de Novas Ferramentas;9.0;11.0;3;25
+7;Palestra: Tendencias de Mercado;9.0;10.5;5;60
+8;Reuniao de Metricas de Sucesso;9.5;11.0;2;10
+9;Reuniao do Sindicato;10.0;11.5;3;12
+10;Treinamento de Prevencao de Incendios;10.0;12.0;4;40
+11;Palestra: Ergonomia no Home Office;10.5;11.5;5;50
+12;Reuniao de Fusoes e Aquisicoes;10.5;12.0;1;6
+13;Reuniao de Logistica e Transportes;11.0;12.0;3;8
+14;Treinamento de Soft Skills;9.5;11.5;4;20
+15;Palestra: Inteligencia Emocional;10.5;12.0;5;70
+16;Reuniao de Analise de Risco;11.0;12.0;2;5
+17;Reuniao de Investimentos;13.0;14.0;1;10
+18;Treinamento de Atualizacao Fiscal;13.0;14.5;3;15
+19;Palestra: Sustentabilidade Corporativa;13.0;14.5;4;65
+20;Reuniao de Diretoria Financeira;13.0;15.0;1;8
+21;Reuniao de Desenvolvimento de Produto;13.5;15.0;2;12
+22;Treinamento de Comunicacao Nao Violenta;13.5;15.5;4;25
+23;Palestra: Cyber Seguranca Basica;14.0;15.0;3;40
+24;Reuniao de Alinhamento de TI;14.0;15.5;2;7
+25;Reuniao com Parceiros Comerciais;14.5;16.0;1;9
+26;Treinamento de Gestao Agil;14.5;16.5;3;30
+27;Palestra: Transformacao Digital;15.0;16.5;5;80
+28;Reuniao de Pauta de RH;15.0;16.0;3;6
+29;Reuniao de Aprovacao de Projetos;15.5;17.0;1;10
+30;Treinamento de Negociacao Avancada;15.5;17.5;2;15
+31;Palestra: LGPD e Privacidade;16.0;17.0;4;50
+32;Reuniao de Manutencao Predial;16.0;17.5;4;5
+33;Reuniao de Resultados Trimestrais;16.0;18.0;1;20
+34;Treinamento de Feedback 360;16.5;18.0;3;25
+35;Palestra: Resiliencia em Tempos de Crise;16.5;18.0;5;60
+36;Reuniao de Revisao de Processos;17.0;18.0;2;8
+37;Reuniao de Retrospectiva Scrum;17.0;18.0;3;10
+38;Treinamento de Analise de Dados;8.5;10.5;3;20
+39;Reuniao de Acompanhamento Mensal;9.0;10.0;2;6
+40;Palestra: Voluntariado Corporativo;9.5;11.0;5;35
+41;Reuniao de Gestao de Talentos;11.0;12.0;3;7
+42;Treinamento de Etiqueta Corporativa;13.5;15.0;5;20
+43;Reuniao de Sustentabilidade;14.0;15.0;4;5
+44;Palestra: Preparacao para a Aposentadoria;14.5;16.0;5;40
+45;Reuniao de Relacoes Publicas;15.0;16.0;3;6
+46;Treinamento de Utilizacao de CRM;15.5;17.5;3;25
+47;Reuniao de Planejamento de Eventos;16.0;17.0;4;8
+48;Palestra: Planejamento Financeiro Pessoal;16.5;18.0;5;55
+49;Reuniao de Indicadores de Desempenho;17.0;18.0;2;12
+50;Reuniao de Fechamento Contabil;17.0;18.0;1;6

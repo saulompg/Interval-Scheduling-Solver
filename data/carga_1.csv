@@ -1,0 +1,11 @@
+ID;Nome;Inicio;Fim;Prioridade;Participantes
+1;Reuniao de Diretoria;8.0;10.0;1;8
+2;Treinamento de Sistemas Internos;8.0;9.5;3;20
+3;Palestra: Cultura Organizacional;9.0;10.5;4;45
+4;Reuniao de Alinhamento de Metas;10.0;11.0;2;6
+5;Treinamento de Vendas;10.5;12.0;3;15
+6;Reuniao com Fornecedores;13.0;14.5;2;6
+7;Palestra: Lideranca e Gestao;13.5;15.5;3;50
+8;Treinamento de Seguranca do Trabalho;14.0;16.0;5;30
+9;Reuniao de Feedback de Equipe;15.5;17.0;2;10
+10;Reuniao de Fechamento de Caixa;17.0;18.0;1;5
