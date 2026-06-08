@@ -21,6 +21,7 @@ gerenciamento_atividades/
 ├── src/          # Código-fonte (.c) com as implementações lógicas
 ├── Makefile      # Script de automação de compilação
 └── README.md     # Documentação do projeto
+```
 
 ## ⚙️ Pré-requisitos
 Para compilar e executar este projeto localmente no Windows, você precisará do compilador GCC e da ferramenta Make.
