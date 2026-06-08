@@ -41,7 +41,7 @@ O projeto utiliza um Makefile para automatizar o processo de compilação, recom
 2. Navegue até a pasta raiz do projeto:
 
 ```Bash
-cd caminho/para/gerenciamento atividades
+cd caminho/para/Interval-Scheduling-Solver
 ```
 
 3. Execute a ferramenta de build. Dependendo de como o seu MinGW foi instalado, o comando pode ter dois nomes diferentes. Tente um dos seguintes:
@@ -63,26 +63,22 @@ Após a compilação bem-sucedida, o executável será gerado dentro da pasta bi
 - No PowerShell ou Git Bash:
 
 ```Bash
-./bin/gerenciamento_atividades.exe
+./bin/interval-scheduling-solver.exe
 ```
 
 - No CMD clássico:
 
 ```DOS
-bin\gerenciamento_atividades.exe
+bin\interval-scheduling-solver.exe
 ```
 
 ## 🎮 Como Utilizar o Sistema
 Ao iniciar o programa, você verá um Menu Principal no terminal. O fluxo ideal de utilização para demonstração das capacidades da ferramenta é:
 
 1. Carregar Dados: As funcionalidades 7, 8 ou 9 permitem importar os arquivos de teste CSV (pequeno, médio ou grande) para a memória do programa.
-
 2. Visualização Dinâmica: Pressione 2 para listar as atividades. Você poderá testar o motor do Merge Sort, escolhendo listar as atividades ordenadas por Horário, ID ou Prioridade.
-
 3. Seleção Gulosa: Pressione 3 para ver o algoritmo priorizar as atividades mais curtas e preencher a agenda com o maior número de eventos possível.
-
 4. Programação Dinâmica: Pressione 4 e escolha qual parâmetro otimizar. Focar na Prioridade (onde Nível 1 é o mais alto) fará o algoritmo varrer as tarefas e sacrificar quantidade para garantir que apenas os eventos mais cruciais (como conselhos e diretorias) sejam marcados. Escolha a opção Participantes para otimizar a escolha das atividades maximizando a quantidade de participantes.
-
 5. Benchmarking: Pressione 5 para a prova real. O sistema executará ambos os algoritmos lado a lado e utilizará o High-Resolution Performance Counter do Windows para medir o tempo de execução (em milissegundos precisos) e exibir o ganho estratégico da Programação Dinâmica em relação ao Algoritmo Guloso.
 
 ## 🛠️ Tecnologias Utilizadas
