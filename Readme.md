@@ -27,14 +27,11 @@ gerenciamento_atividades/
 Para compilar e executar este projeto localmente no Windows, você precisará do compilador GCC e da ferramenta Make.
 
 1. Instalação do MinGW (Minimalist GNU for Windows):
-
-  - Você pode instalar o MinGW baixando o instalador direto pelo site oficial ou utilizando um gerenciador de pacotes como o MSYS2.
-
-  - Se você utiliza a IDE Dev-C++ ou Code::Blocks, é muito provável que o MinGW já esteja instalado na sua máquina.
+   - Você pode instalar o MinGW baixando o instalador direto pelo site oficial ou utilizando um gerenciador de pacotes como o MSYS2.
+   - Se você utiliza a IDE Dev-C++ ou Code::Blocks, é muito provável que o MinGW já esteja instalado na sua máquina.
 
 2. Variáveis de Ambiente (PATH):
-
-  - Certifique-se de que o caminho para a pasta bin da sua instalação do MinGW (ex: C:\MinGW\bin ou C:\msys64\mingw64\bin) esteja adicionado à variável de ambiente PATH do seu sistema operacional. Isso permite que o terminal reconheça os comandos de compilação.
+   - Certifique-se de que o caminho para a pasta bin da sua instalação do MinGW (ex: C:\MinGW\bin ou C:\msys64\mingw64\bin) esteja adicionado à variável de ambiente PATH do seu sistema operacional. Isso permite que o terminal reconheça os comandos de compilação.
 
 ## 🛠️ Como Compilar (Build)
 O projeto utiliza um Makefile para automatizar o processo de compilação, recompilando apenas os arquivos que sofreram alterações.
