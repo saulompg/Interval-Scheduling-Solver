@@ -14,7 +14,7 @@ SRCS = $(wildcard $(SRC_DIR)/*.c)
 OBJS = $(patsubst $(SRC_DIR)/%.c, $(OBJ_DIR)/%.o, $(SRCS))
 
 # Nome do arquivo final
-EXEC = $(BIN_DIR)/gerenciamento_atividades.exe
+EXEC = $(BIN_DIR)/interval-scheduling-solver.exe
 
 # Regra principal (o que roda quando você digita apenas 'make')
 all: $(EXEC)
