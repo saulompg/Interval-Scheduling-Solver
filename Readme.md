@@ -57,7 +57,7 @@ mingw32-make
 
 > Nota: Para limpar os arquivos compilados (se quiser forçar uma compilação 100% nova e limpa da próxima vez), execute `make clean` ou `mingw32-make clean`.
 
-##🚀 Como Executar
+## 🚀 Como Executar
 Após a compilação bem-sucedida, o executável será gerado dentro da pasta bin. Para rodá-lo, ainda no terminal na raiz do projeto, execute:
 
 ```Bash
