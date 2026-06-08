@@ -55,22 +55,15 @@ ou
 mingw32-make
 ```
 
-> Nota: Para limpar os arquivos compilados (se quiser forçar uma compilação 100% nova e limpa da próxima vez), execute make clean ou mingw32-make clean.
+> Nota: Para limpar os arquivos compilados (se quiser forçar uma compilação 100% nova e limpa da próxima vez), execute `make clean` ou `mingw32-make clean`.
 
 🚀 Como Executar
-Após a compilação bem-sucedida, o executável será gerado dentro da pasta bin. Para rodá-lo, ainda no terminal na raiz do projeto, digite:
-
-- No PowerShell ou Git Bash:
+Após a compilação bem-sucedida, o executável será gerado dentro da pasta bin. Para rodá-lo, ainda no terminal na raiz do projeto, execute:
 
 ```Bash
-./bin/interval-scheduling-solver.exe
+.\bin\interval-scheduling-solver.exe
 ```
 
-- No CMD clássico:
-
-```DOS
-bin\interval-scheduling-solver.exe
-```
 
 ## 🎮 Como Utilizar o Sistema
 Ao iniciar o programa, você verá um Menu Principal no terminal. O fluxo ideal de utilização para demonstração das capacidades da ferramenta é:
